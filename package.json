@@ -62,7 +62,7 @@
     "kakapo-assets": "^5.18.0",
     "lost": "^8.3.0",
     "polished": "^1.9.3",
-    "query-string": "^6.1.0",
+    "query-string": "^6.13.7",
     "ramda": "^0.25.0",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
